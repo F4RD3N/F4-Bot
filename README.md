@@ -1,2 +1,3 @@
-# F4-Bot
-Nuker Bot
+1. npm i
+2. edit bot in index.js
+3. start.bat
