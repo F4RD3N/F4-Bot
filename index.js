@@ -28,4 +28,4 @@ nuke.on("message", async (msg) => {
     }
 });
 
-nuke.login("ODc3MDMzMDkzMTYzMjYyMDAz.YRsutw.iGfKM0kZ1rsOq7yBAcS3Sn_BNQM"); 
+nuke.login("Token Here"); 
